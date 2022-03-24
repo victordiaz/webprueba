@@ -1,0 +1,1199 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   sodipodi:docname="favicon_bak.svg"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   inkscape:export-ydpi="123.58"
+   inkscape:export-xdpi="123.58"
+   inkscape:export-filename="/home/biquillo/Development/Protocoder/AndroidApp/protocoder_app/src/main/res/drawable/protocoder_icon_big_no_text.png"
+   id="svg5002"
+   version="1.1"
+   viewBox="0 0 102.90491 102.90491"
+   height="102.90491mm"
+   width="102.90491mm">
+  <defs
+     id="defs4996">
+    <filter
+       id="filter163"
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood153"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.498039" />
+      <feComposite
+         id="feComposite155"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur157"
+         result="blur"
+         stdDeviation="0.8"
+         in="composite1" />
+      <feOffset
+         id="feOffset159"
+         result="offset"
+         dy="0"
+         dx="0" />
+      <feComposite
+         id="feComposite161"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter175"
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood165"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.498039" />
+      <feComposite
+         id="feComposite167"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur169"
+         result="blur"
+         stdDeviation="0.8"
+         in="composite1" />
+      <feOffset
+         id="feOffset171"
+         result="offset"
+         dy="0"
+         dx="0" />
+      <feComposite
+         id="feComposite173"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <filter
+       id="filter187"
+       inkscape:label="Drop Shadow"
+       style="color-interpolation-filters:sRGB">
+      <feFlood
+         id="feFlood177"
+         result="flood"
+         flood-color="rgb(0,0,0)"
+         flood-opacity="0.498039" />
+      <feComposite
+         id="feComposite179"
+         result="composite1"
+         operator="in"
+         in2="SourceGraphic"
+         in="flood" />
+      <feGaussianBlur
+         id="feGaussianBlur181"
+         result="blur"
+         stdDeviation="0.8"
+         in="composite1" />
+      <feOffset
+         id="feOffset183"
+         result="offset"
+         dy="0"
+         dx="0" />
+      <feComposite
+         id="feComposite185"
+         result="composite2"
+         operator="over"
+         in2="offset"
+         in="SourceGraphic" />
+    </filter>
+    <clipPath
+       id="clipPath896"
+       clipPathUnits="userSpaceOnUse">
+      <rect
+         style="color:#000000;overflow:visible;opacity:0.984;fill:#373234;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+         id="rect898"
+         width="108.84401"
+         height="108.84401"
+         x="6.2464328"
+         y="37.287266"
+         ry="0.49197152"
+         inkscape:export-xdpi="59.740002"
+         inkscape:export-ydpi="59.740002"
+         inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/icon.png" />
+    </clipPath>
+    <clipPath
+       id="clipPath973"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path975"
+         d="M 12.064453,-139.78987 -62.246095,-37.448051 -131.17188,-91.389457 -245.21875,7.3878895 -225.26758,30.421091 -130.19141,-51.924611 -56.148438,6.0187493 36.722656,-121.88362 Z"
+         style="color:#000000;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:medium;line-height:normal;font-family:sans-serif;font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-feature-settings:normal;text-indent:0;text-align:start;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;text-anchor:start;white-space:normal;shape-padding:0;clip-rule:nonzero;display:inline;overflow:visible;visibility:visible;opacity:1;isolation:auto;mix-blend-mode:normal;color-interpolation:sRGB;color-interpolation-filters:linearRGB;solid-color:#000000;solid-opacity:1;vector-effect:none;fill:#ff356b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:30.4733;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;color-rendering:auto;image-rendering:auto;shape-rendering:auto;text-rendering:auto;enable-background:accumulate" />
+    </clipPath>
+    <clipPath
+       id="clipPath4686"
+       clipPathUnits="userSpaceOnUse">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4688"
+         d="m 204.43891,35.468462 90.12613,-60.864762 61.61628,37.597662 72.04974,-77.371573"
+         style="fill:none;fill-rule:evenodd;stroke:#ff356b;stroke-width:23.1937;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         sodipodi:nodetypes="cccc"
+         inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+         inkscape:export-xdpi="201.85001"
+         inkscape:export-ydpi="201.85001" />
+    </clipPath>
+    <clipPath
+       id="clipPath3067"
+       clipPathUnits="userSpaceOnUse">
+      <circle
+         cy="160.29095"
+         cx="-441.81305"
+         id="circle3069"
+         style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:1.50181;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="36.506416" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     inkscape:document-rotation="0"
+     showguides="false"
+     inkscape:window-maximized="1"
+     inkscape:window-y="0"
+     inkscape:window-x="0"
+     inkscape:window-height="1080"
+     inkscape:window-width="1920"
+     showgrid="false"
+     inkscape:current-layer="g1080"
+     inkscape:document-units="mm"
+     inkscape:cy="430.17721"
+     inkscape:cx="40.880875"
+     inkscape:zoom="0.57467082"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     borderopacity="1.0"
+     bordercolor="#666666"
+     pagecolor="#ffffff"
+     id="base" />
+  <metadata
+     id="metadata4999">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1"
+     transform="translate(498.17985,-111.70096)">
+    <rect
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-xdpi="59.740002"
+       ry="0.49197152"
+       y="-98.152855"
+       x="425.67496"
+       height="108.84401"
+       width="108.84401"
+       id="rect4701"
+       style="color:#000000;overflow:visible;opacity:1;fill:#373234;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       id="path882"
+       d="m 19.598058,-107.20415 c 0,-19.90299 16.159488,-36.06248 36.062488,-36.06248 19.903,0 36.062479,16.15949 36.062479,36.06248 0,19.903012 -16.159479,36.062497 -36.062479,36.062497 -19.903,0 -36.062488,-16.159485 -36.062488,-36.062497 z"
+       style="isolation:isolate;fill:#35ffd0;stroke-width:1.0192"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+       inkscape:export-xdpi="201.85001"
+       inkscape:export-ydpi="201.85001" />
+    <rect
+       inkscape:export-ydpi="123.58"
+       inkscape:export-xdpi="123.58"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_partial.png"
+       ry="0.70659429"
+       y="26.938274"
+       x="396.46729"
+       height="73.285713"
+       width="118.45397"
+       id="rect890"
+       style="color:#000000;overflow:visible;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1.11271;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.794979" />
+    <rect
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-xdpi="59.740002"
+       ry="1.1648908"
+       y="143.60153"
+       x="396.11981"
+       height="257.72098"
+       width="108.84401"
+       id="rect884"
+       style="color:#000000;overflow:visible;opacity:1;fill:#373234;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:32.3141;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-xdpi="59.740002"
+       ry="1.2512833"
+       y="381.36697"
+       x="-581.39642"
+       height="276.8345"
+       width="343.36716"
+       id="rect40"
+       style="color:#000000;overflow:visible;opacity:1;fill:#373234;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:59.4846;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/icon_foreground.png"
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-xdpi="59.740002"
+       ry="0.49197152"
+       y="-134.9381"
+       x="-344.2926"
+       height="108.84401"
+       width="108.84401"
+       id="rect5565"
+       style="color:#000000;overflow:visible;opacity:0.984;fill:#373234;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       inkscape:export-ydpi="201.85001"
+       inkscape:export-xdpi="201.85001"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+       inkscape:connector-curvature="0"
+       style="isolation:isolate;fill:#ffd735;stroke-width:0.941749"
+       d="m 255.44597,-27.858519 32.96124,-57.446721 33.90298,63.097218 z"
+       id="path5588" />
+    <path
+       inkscape:export-ydpi="201.85001"
+       inkscape:export-xdpi="201.85001"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+       inkscape:connector-curvature="0"
+       style="isolation:isolate;fill:#35ffd0;stroke-width:0.264583"
+       d="m 260.69327,43.124679 c 0,-5.166783 4.19497,-9.361752 9.36175,-9.361752 5.16678,0 9.36175,4.194969 9.36175,9.361752 0,5.166783 -4.19497,9.361752 -9.36175,9.361752 -5.16678,0 -9.36175,-4.194969 -9.36175,-9.361752 z"
+       id="path5594" />
+    <rect
+       style="color:#000000;overflow:visible;opacity:1;fill:#373234;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       id="rect837"
+       width="108.84401"
+       height="108.84401"
+       x="11.156812"
+       y="171.67072"
+       ry="0.49197152"
+       inkscape:export-xdpi="59.740002"
+       inkscape:export-ydpi="59.740002" />
+    <text
+       id="text841"
+       y="32.034176"
+       x="12.397291"
+       style="font-weight:bold;font-size:7.76111px;line-height:6.61458px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:none;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve"><tspan
+         style="fill:#373234;fill-opacity:1;stroke:none;stroke-width:0.264583px"
+         y="32.034176"
+         x="12.397291"
+         id="tspan839"
+         sodipodi:role="line">App / Web</tspan></text>
+    <rect
+       style="color:#000000;overflow:visible;opacity:1;fill:#373234;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:10.7048;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       id="rect853"
+       width="43.235962"
+       height="71.20005"
+       x="197.45888"
+       y="357.59424"
+       ry="0.32182202"
+       inkscape:export-xdpi="59.740002"
+       inkscape:export-ydpi="59.740002" />
+    <rect
+       style="color:#000000;overflow:visible;opacity:1;fill:#ff356b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:17.3643;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       id="rect855"
+       width="90"
+       height="90"
+       x="291.64355"
+       y="322.9581"
+       ry="0.4067972"
+       inkscape:export-xdpi="59.740002"
+       inkscape:export-ydpi="59.740002" />
+    <text
+       id="text4548"
+       y="376.01746"
+       x="309.74838"
+       style="font-weight:bold;font-size:7.76111px;line-height:6.61458px;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:none;stroke:none;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       xml:space="preserve" />
+    <rect
+       transform="matrix(1.0025648,0,0,0.86362169,0.32286135,76.34669)"
+       style="color:#000000;overflow:visible;opacity:1;fill:#d3d7cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:2.6578;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter187)"
+       id="rect847"
+       width="64.507935"
+       height="2.94173"
+       x="-158.13788"
+       y="559.43408"
+       ry="0.01329653"
+       inkscape:export-xdpi="59.740002"
+       inkscape:export-ydpi="59.740002" />
+    <rect
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-xdpi="59.740002"
+       ry="0.45018244"
+       y="459.69867"
+       x="-197.22086"
+       height="99.598572"
+       width="142.6739"
+       id="rect845"
+       style="color:#000000;overflow:visible;opacity:1;fill:#eeeeec;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:22.9992;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter163)" />
+    <rect
+       style="color:#000000;overflow:visible;opacity:1;fill:#2e3436;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21.0108;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       id="rect849"
+       width="132.7981"
+       height="89.302513"
+       x="-192.28294"
+       y="463.40289"
+       ry="0.40364459"
+       inkscape:export-xdpi="59.740002"
+       inkscape:export-ydpi="59.740002" />
+    <rect
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-xdpi="59.740002"
+       ry="0.25466439"
+       y="506.03375"
+       x="-79.053131"
+       height="56.342072"
+       width="32.241058"
+       id="rect843"
+       style="color:#000000;overflow:visible;opacity:1;fill:#ffffff;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:8.2231;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1;filter:url(#filter175)" />
+    <rect
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-xdpi="59.740002"
+       ry="0.5701564"
+       y="507.73343"
+       x="-78.616295"
+       height="47.763214"
+       width="31.367392"
+       id="rect851"
+       style="color:#000000;overflow:visible;opacity:1;fill:#d3d7cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:7.46794;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       ry="1.2631456"
+       y="557.30011"
+       x="-66.300537"
+       height="2.5262911"
+       width="9.1077595"
+       id="rect848"
+       style="color:#000000;overflow:visible;fill:#d3d7cf;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <image
+       width="170.60333"
+       height="118.95667"
+       preserveAspectRatio="none"
+       xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAZMAAAEZCAYAAABSN8jfAAAABHNCSVQICAgIfAhkiAAAAAlwSFlz AAAJMAAACTABqxBZpgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAA7ESURB VHic7d3PbyRnWsDxp6ptz/hHWPJDUYBkslk2iRDKheVK8g9kCZE4rRA3OIDEKtKChERW2QUJCXFY +Bc4IK1AsxICDoCWICRO4cBqhAgSrLKERYjRTJIZe+zuquLQLrtc0x63/Xi67Pbno5TcHrftco/z fvt9q6onAgAAAAAAAAAAAAAAAAAAAAAAAAAAALgYiqF3YIaLuE8AF00z9A50DT1wH/f9h94vgIvs uJAMFpihBu3+9y1m/LmgADysmXG7H5GFR2WIAbsfjKJ3e1ZYAJjqBqSZ8X7/fgux6AG7H4oiIso4 GpL+BsBU84itjodnKgsLysqivlHMnoG0MelvZikAh2bNRure1v14e7uIBQVlkTHp6kZk1Hk76rxv hgIwNWsWUnW2uvO2O0NZmEXFZNaspA3ISm/rBqUMsxPgauvONNpYtBGZdLbu/Yve7ccel0Uvc/WX ttqArEXEamdbicPYmJkAV107I2lnH5OIGO9v5Yz7LfxA/BDLXP1Zydrbb7/99De/+d5Xy3L0o3Vd lVVVl3VdlxERTVMXTdOICXBlFUXRFEXZRESUZVmPRmVdlqO6rqu7X//6e3908+bN2/t3bZe4Fr7U tYhBun/mVhuR1ZjOSK6///53f/m111773QXsC8BS+d73bv3OG2+88ScR8SAi9mI6W5nE4SxmIWd2 lSff5dwct8y12jTN+gL3A2BpNE21EUcPD8w6I/axW1RMZl2oeDBLqapqkVEDWBr742d78lI3JK2F BGXRg/isJa/RZDIZLXg/AJbC/vjZv6wiYsEnLi16mat9e+Q6EzMTgLPZHz/7l1MsPChDzkwONmdr AZzN/vg56yLvpZ2ZtPpreaWYAJzN/vjZXd6KWHBIIoaJSYQLEQEeh8HG1qFem6tVRERR16ebmfzp t/8s/uIv/+ox7RLAMIqiiLff+vn4xbffmvtz9sfPwZ+gDx2TM/n7f/jH+O8f/s/QuwFw7v7m7757 qphcFM6iAiBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABI ExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBN TABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQx ASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQE gDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA 0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBNTABIExMA0sQEgDQxASBtZegd AOCopmlO+ynFCduJ3/K037BPTAAukKZpThWTqqpOCslJMWlm3OfUcRETYKmd4Vn+4Oq6nvu+vZiU va394ZuYHYhuSJpH/NmJxARYOnMH5AKGpq7rqKpq7vtPJpMyIkYxHc9HndsR0yjUcRiT/g/c/bP+ x9uozPUgiQmwVPoheTgszcybF0VT1zEej+e+/3i8V0bEakzH89WIqGIakHam0sakP91petus6Mwd FDEBlsKxEWmaw5FwxkzkovWkquvY3d2d+/47Ow9GMY3IWkRM4vBHmsQ0ELNi0o/IrK173xODIibA cmnj0TTRRBPT/46+vciqqooHDx7Mff+dnZ2ViLgWD89IjotJPyRV5227RTwclEcSE+DS689CmqaZ 3m63g4g0F/EwyRHVZBLb29tz3//evc9WI2I9Dgf89phJG4buElbEw7ORSWfrn9XV/bxHzk7EBFga 3ZDUB0GpY3qz6Sx5NdF9c5FMJuO4d+/+3Pff3t5ejYiN/XfLmI7ra3E0JrOOjbQfH3e27llc7TbX mV1iAlxq7aykjUU7I3n6qSfja++8E9fW1qKZEY/mIpYkIjbWN+KVl39y7vvfuHHj577ylV96ZTQa VaPRqCrLsi6KoimKoinLsimK4uAHbW+3Hx+NRnVRFM3Kykp169atP3/99df/Oo4Gp102s8wFXB3T p9LTmLz8xS/GW19+c+hdWoTn97eUV199dSci/jYOZyxtSObitbmAJdHOSk5/FTkRk8mkPSusvV6l vfBxrpdkERPg8mvas7XiyIF35lfXdXu8pQ1J/+VYHhkUy1zApXVwvCTi6IH1zinAH/3g+3H3kzuL 37lLYm11Lb7w0stR13URD8dkbmICLI+DJa7pO5/d+yz+7d//dei9uvBGKyuxtnK9iOOXt048CG+Z C1hC03O1JpPJ0DtyKUwmk2ia5rhXG55rhiImwJLoPXF2zORU9mPSX95yNhdw9cjHuTjNP6p1QEyA 5aMqZ3WqgHSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBp YgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJ CQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYm AKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgA kCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJA mpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBp YgJAmpgAkCYmAKSJCQBpYgJAmpgAkCYmAKSJCQBpYgJAmpgAkHYpY/KFl14cehcA6FgZegfO4jff +Wr82q/+ytC7AQysqqqo6zomk0ns7e3F7u5u7OzsxPb2dmxsbA69e1fKpYxJWZbxxBNbQ+8GMLCq qg623d3dWF1dibKcLrhcu7Y28N5dLZdymQuAi0VMAEgTEwDSxARYWisrl/Kw8MKdx+PkkQaW1hNb T8SrL/9U3P3kztC7cmGtrV2LF194KT7++OPU1xk6Jk1ENGVZNAPvB7Ckbrzw+bjxwueH3o2lN9Qy V7O/AbAEhohJ07tdF4WZCcBltuhlrqbz9mATE2AZVVUVVV2d+fNHo1GMytE57tHjs8iY9ENS72/V aDSqF7gfAI/V7u6D+K8ffhQ7D7bTX2tjfTOe//EXY231Yl/Rv+hlrm5Q6oioIqJaWVk5e7oBLpCm aeKjj//zXEISEbG9cz9+8PH3z+VrPU6Likn/OEk3JhMzE2BZ7O7txu7e7rl+zZ0H2zGejM/1a563 Rc5MusdJ2iWuSUSMi6LYWeB+AEuuKCKKohjke4/KxzOslsVChuszH79exDGTJiKKzu2DYyX72/hb 3/rj73zjG+/dGI1GT9Z1VVZVXdZ1XUZENE1dNE0zzG/FJdY+ZnXdFE0z3ep6+riuro5urF279srQ +8hy2tvd/XA8rj4qy7Iuy7IuiqIpiuLgerLzPOFmMpkUVVUX4/G4ePBgt9zb2y3v378/unfvs5Xn nvuxpyPip8/re81rdXUtfmTrc/HpvU/O7Ws++bmnYjRa2IH4M126McRFi0eWuCIibt68efvmzZu/ FxGr+9tKTGdNo5iGSEzmV3TeFjF9DEcxfUxXI2L1t377a7/wpS/9jJjwWHzwwT+//we//4ffiYjx /jaJwyeP3YHqPKLSjhOjmP5+r0XEtYjYePfdd3/2zTe/vPCYREQ8/xMvxv/d/t+4d/+zaJqz/5hl WcbW5hPxzFPPnuPezbYf+f7fz9w7P8TZXBHTmBSxH5POn1Ux/eUbxfSXpIyjgyMnOy4mbaivbWxu jTc21gfaPZbdxubWOCJ2ImI3DoPyuGLSjhWjmIZkL6bjSn39+vXBls/Looxnn3kunn3muaF24azq OHpIImLOv6dFxaRd6uqfzdXqzlTaX46itzGf9rFqH8MyphEZx/R/tnpzY32yvi4mPB6bG+uTOIxJ O7iP43Cgav/fP6+YFDEdy/ZiOiupI6JeX19/cA5f/8ooy7Idh9tDERGnCMpQr83V/kK19SvjMCj9 kESIyWl0H7N2djeOaVCqiKg3t7b2rl2/PtDusew2t7b24mhM2qWudpB6HMtcZUyfLLUzoHp9ff18 T6lacmVZNnF0Bnmqs2wXvczVn530D8z3ZyMicjbtY9fGpJ311RFRb21tjtfWVgfcPZbZ1tZmu8y1 F9OgHPn9i/N9bb72d3wUnZBERLO5uWlmcgr7M5NZx7fmiv8QL6fSDUrEYf3MRs5P97FsZ33tqSDV 3Tt3bn1699NvV5PJqD3Dqz3jy5lzzKs9S2t6ptb0zK3Rykp1986dWzGNySSmQenGpD9AZXWfMB0Z 9DY3N81MTmH/4vH2+Napwz/U2VzdGUk3MN2BzKB2dt2YdNepm4iof+PX33k/Iv4pDs/yWomHj1XB ozx08XEcPqttl7aOO5PrPGPS7kPZeT8iovjwww//4/79+//SNM1q98lS/wnTZXsCdZZTq/uf077f fTJw+/btD+Lo39msYyfHf4/T7tQ5O+77D71fwOXQzr7bMxfbJ0ft2Ytr+9tq5+OzjsteNscN7o8a 9NuP1Z2tfRLQPgHYi8OTJrpROfFJwEX4x7H6+stgAI/SHm9tzXqlje7se1lm4GcZJ/uvRNKdVXYD MndEWkPHZBYhAU6jv0TeHyzba61mheSyB+W0+kuN3Vcj6W79M+8iThibL2JMAOY166zQ6L3fveSg PbZy1Y7P9kPQjUn/Za76M5K5nuBfhQcRWG79V33on83okoOHzfr3pfrX/53qKngPKrAM+stWs+Jx VZe2ZulH4lEBMTMBrpRZS1fzLGddhXFwnrO8ZsVj7mPYV+FBBK6W/rhmnDvZrGMqp+JBBpaZMW5+ zqQFAAAAAAAAAAAAAP4feR2t5Rwg7OAAAAAASUVORK5CYII= "
+       id="image102"
+       x="148.26578"
+       y="458.6084" />
+    <g
+       id="g917">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ff356b;stroke-width:26.9875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -58.243281,166.84409 19.266778,68.000331 82.574952,117.54315 156.60311,15.589855"
+         id="path59"
+         inkscape:connector-curvature="0"
+         clip-path="url(#clipPath896)"
+         transform="translate(-350.53904,-172.22537)" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         style="isolation:isolate;fill:#ffd735;stroke-width:0.264583"
+         d="m -273.48987,-43.792264 23.12857,-26.015401 12.46674,37.688831 z"
+         id="path4775" />
+      <path
+         inkscape:connector-curvature="0"
+         style="isolation:isolate;fill:#35ffd0;stroke-width:0.558541"
+         d="m -327.76882,-108.42719 c 0,-10.9072 8.85567,-19.76287 19.76287,-19.76287 10.90719,0 19.76287,8.85567 19.76287,19.76287 0,10.907192 -8.85568,19.762866 -19.76287,19.762866 -10.9072,0 -19.76287,-8.855674 -19.76287,-19.762866 z"
+         id="path4857" />
+    </g>
+    <path
+       inkscape:export-ydpi="201.85001"
+       inkscape:export-xdpi="201.85001"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+       sodipodi:nodetypes="cccc"
+       style="fill:none;fill-rule:evenodd;stroke:#ff356b;stroke-width:9.03415;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 257.66593,78.053725 30.99846,-26.847918 21.19262,16.58462 24.78117,-34.129201"
+       id="path875"
+       inkscape:connector-curvature="0" />
+    <g
+       inkscape:export-ydpi="201.85001"
+       inkscape:export-xdpi="201.85001"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+       style="isolation:isolate"
+       transform="matrix(0.26458333,0,0,0.26458333,263.41795,61.715627)"
+       id="g5592">
+      <text
+         transform="translate(0,51.305)"
+         style="font-style:normal;font-weight:700;font-size:48px;font-family:'Open Sans';fill:#ffffff;stroke:none"
+         id="text5590">phonk</text>
+    </g>
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       id="path902"
+       d="m 257.25232,138.24157 14.28122,-5.35229 14.39341,3.8866 17.21895,-5.9133"
+       style="fill:none;fill-rule:evenodd;stroke:#ff356b;stroke-width:4.86898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g894"
+       transform="matrix(0.26458333,0,0,0.26458333,258.06908,120.01612)"
+       style="isolation:isolate">
+      <text
+         id="text892"
+         style="font-style:normal;font-weight:700;font-size:48px;font-family:'Open Sans';fill:#ffffff;stroke:none"
+         transform="translate(0,51.305)">phonk</text>
+    </g>
+    <rect
+       style="color:#000000;overflow:visible;opacity:0.984;fill:#ff356b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       id="rect61"
+       width="108.84401"
+       height="108.84401"
+       x="217.82407"
+       y="178.73523"
+       ry="0.49197152"
+       inkscape:export-xdpi="59.740002"
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo.png" />
+    <rect
+       style="color:#000000;overflow:visible;opacity:0.984;fill:#ff356b;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       id="rect871"
+       width="108.84401"
+       height="108.84401"
+       x="-215.43463"
+       y="33.721352"
+       ry="0.49197152"
+       inkscape:export-xdpi="59.740002"
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/app_icon.png" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ffffff;stroke-width:26.9875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:0.794979"
+       d="m -279.92435,163.27817 77.51006,-98.843754 63.30818,49.542814 74.028156,-101.95329"
+       id="path873"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:nodetypes="cccc"
+       inkscape:connector-curvature="0"
+       style="isolation:isolate;fill:#ffffff;fill-opacity:1;stroke-width:0.264583"
+       d="m -144.63191,124.86718 23.12858,-26.015395 12.46674,37.688825 z"
+       id="path876" />
+    <path
+       inkscape:connector-curvature="0"
+       style="isolation:isolate;fill:#ffffff;fill-opacity:1;stroke-width:0.558541"
+       d="m -198.91085,60.232256 c 0,-10.907195 8.85567,-19.762869 19.76287,-19.762869 10.90719,0 19.76286,8.855674 19.76286,19.762869 0,10.907195 -8.85567,19.762869 -19.76286,19.762869 -10.9072,0 -19.76287,-8.855674 -19.76287,-19.762869 z"
+       id="path878" />
+    <path
+       id="path880"
+       d="m 488.03963,87.67681 9.26042,-16.139588 9.525,17.727088 z"
+       style="isolation:isolate;fill:#ffd735;stroke-width:0.264583"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+       inkscape:export-xdpi="201.85001"
+       inkscape:export-ydpi="201.85001" />
+    <rect
+       style="color:#000000;overflow:visible;fill:#ffffff;fill-opacity:0;fill-rule:evenodd;stroke:none;stroke-width:1.88262;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect12192"
+       width="125.17793"
+       height="198.51936"
+       x="541.03229"
+       y="161.41736"
+       ry="1.9140518"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_partial_land.png"
+       inkscape:export-xdpi="123.58"
+       inkscape:export-ydpi="123.58" />
+    <path
+       inkscape:export-ydpi="201.85001"
+       inkscape:export-xdpi="201.85001"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+       inkscape:connector-curvature="0"
+       style="isolation:isolate;fill:#ffd735;stroke-width:0.678911"
+       d="m 635.12614,340.14105 23.76191,-41.41361 24.44081,45.48708 z"
+       id="path12194" />
+    <path
+       inkscape:export-ydpi="201.85001"
+       inkscape:export-xdpi="201.85001"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/logo_and_text.png"
+       inkscape:connector-curvature="0"
+       style="isolation:isolate;fill:#35ffd0;stroke-width:0.870315"
+       d="m 515.2176,227.76842 c 0,-16.9955 13.79885,-30.79435 30.79435,-30.79435 16.99551,0 30.79436,13.79885 30.79436,30.79435 0,16.99554 -13.79885,30.79439 -30.79436,30.79439 -16.9955,0 -30.79435,-13.79885 -30.79435,-30.79439 z"
+       id="path12196" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.8911px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#373234;fill-opacity:0.984314;stroke:none;stroke-width:0.897277"
+       x="47.552887"
+       y="-46.96825"
+       id="text953"><tspan
+         sodipodi:role="line"
+         id="tspan951"
+         x="47.552887"
+         y="-46.96825"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:86.1386px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#373234;fill-opacity:0.984314;stroke-width:0.897277">phonk</tspan></text>
+    <g
+       id="text871"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:35.8911px;line-height:1.25;font-family:Roboto;-inkscape-font-specification:Roboto;letter-spacing:0px;word-spacing:0px;fill:#ff356b;fill-opacity:0.984314;stroke:none;stroke-width:0.897277"
+       clip-path="url(#clipPath973)"
+       transform="translate(273.03628,-33.656734)"
+       aria-label="phonk">
+      <path
+         id="path4690"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:86.1386px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#ffd735;fill-opacity:1;stroke-width:0.897277"
+         d="m -181.90545,-39.56585 q 0,10.599087 -4.79482,16.950127 -4.75277,6.308981 -12.87032,6.308981 -6.26692,0 -10.30467,-4.584526 V 0.34896564 h -14.17417 V -62.656717 h 13.24885 l 0.4206,4.205986 q 4.07981,-5.047184 10.72527,-5.047184 8.41197,0 13.08062,6.224861 4.66864,6.1828 4.66864,17.034246 z m -14.17417,-0.883257 q 0,-12.113242 -7.06606,-12.113242 -5.04718,0 -6.72958,3.617149 v 17.917504 q 1.85064,3.785388 6.8137,3.785388 6.77164,0 6.98194,-11.692644 z" />
+      <path
+         id="path4692"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:86.1386px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#ff356b;fill-opacity:0.984314;stroke-width:0.897277"
+         d="m -161.80083,-57.777773 q 4.54247,-5.720142 11.60853,-5.720142 7.52871,0 11.35616,4.458346 3.82745,4.458346 3.91157,13.164739 v 28.72689 h -14.21624 v -28.390411 q 0,-3.617149 -1.47209,-5.299543 -1.4721,-1.724455 -5.00513,-1.724455 -4.37422,0 -6.1828,2.775951 V -17.14794 H -175.975 v -64.603958 h 14.17417 z" />
+      <path
+         id="path4694"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:86.1386px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#35ffd0;fill-opacity:1;stroke-width:0.897277"
+         d="m -128.82589,-40.322927 q 0,-6.813699 2.64977,-12.113242 2.64978,-5.341604 7.61284,-8.201675 4.96307,-2.860071 11.65058,-2.860071 10.220552,0 16.108934,6.35104 5.888381,6.308981 5.888381,17.202487 v 0.504718 q 0,10.641147 -5.930441,16.908067 -5.888382,6.224861 -15.982754,6.224861 -9.71583,0 -15.60421,-5.804262 -5.88838,-5.846322 -6.35104,-15.814511 z m 14.17418,0.883257 q 0,6.30898 1.97681,9.253171 1.97682,2.944191 5.84632,2.944191 7.57078,0 7.73902,-11.650584 v -1.430035 q 0,-12.239422 -7.82314,-12.239422 -7.10811,0 -7.69695,10.557027 z" />
+      <path
+         id="path4696"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:86.1386px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#ff356b;fill-opacity:0.984314;stroke-width:0.897277"
+         d="m -65.651963,-62.656717 0.462659,5.341603 q 4.710705,-6.182801 12.996499,-6.182801 7.108118,0 10.599087,4.248047 3.533029,4.248047 3.659209,12.7862 v 29.315728 h -14.216236 v -28.72689 q 0,-3.448909 -1.387976,-5.047184 -1.387975,-1.640335 -5.047184,-1.640335 -4.163927,0 -6.182801,3.28067 v 32.133739 h -14.174175 v -45.508777 z" />
+      <path
+         id="path4698"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:86.1386px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#35ffd0;fill-opacity:1;stroke-width:0.897277"
+         d="m -11.815332,-34.098067 -3.995687,3.995688 v 12.954439 h -14.174176 v -64.646018 h 14.174176 v 34.320853 l 1.430035,-1.892694 10.6832067,-13.290918 H 13.29441 L -2.6462806,-43.940076 14.345906,-17.14794 H -1.889203 Z" />
+      <path
+         inkscape:connector-curvature="0"
+         d="m 147.63513,-22.664473 q 4.54247,-5.720142 11.60853,-5.720142 7.52871,0 11.35616,4.458346 3.82745,4.458346 3.91157,13.164739 v 28.72689 h -14.21624 v -28.390411 q 0,-3.617149 -1.47209,-5.299543 -1.4721,-1.724455 -5.00513,-1.724455 -4.37422,0 -6.1828,2.775951 V 17.96536 h -14.17417 v -64.603958 h 14.17417 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:86.1386px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#ff356b;fill-opacity:0.984314;stroke-width:0.897277"
+         id="path4703" />
+      <path
+         d="m -161.80083,-57.777773 q 4.54247,-5.720142 11.60853,-5.720142 7.52871,0 11.35616,4.458346 3.82745,4.458346 3.91157,13.164739 v 28.72689 h -14.21624 v -28.390411 q 0,-3.617149 -1.47209,-5.299543 -1.4721,-1.724455 -5.00513,-1.724455 -4.37422,0 -6.1828,2.775951 V -17.14794 H -175.975 v -64.603958 h 14.17417 z"
+         style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:86.1386px;font-family:Roboto;-inkscape-font-specification:'Roboto Heavy';fill:#ff356b;fill-opacity:0.984314;stroke-width:0.897277"
+         id="path4705" />
+    </g>
+    <rect
+       style="color:#000000;overflow:visible;opacity:0.984;fill:#373234;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3157"
+       width="108.84401"
+       height="108.84401"
+       x="-223.31458"
+       y="-134.9381"
+       ry="0.49197152"
+       inkscape:export-xdpi="59.740002"
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/icon_background.png" />
+    <g
+       id="g933"
+       transform="translate(355.44941,306.60881)">
+      <path
+         transform="translate(-350.53904,-172.22537)"
+         clip-path="url(#clipPath896)"
+         inkscape:connector-curvature="0"
+         id="path927"
+         d="M -58.243281,166.84409 19.266778,68.000331 82.574952,117.54315 156.60311,15.589855"
+         style="fill:none;fill-rule:evenodd;stroke:#ff356b;stroke-width:26.9875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         id="path929"
+         d="m -273.48987,-43.792264 23.12857,-26.015401 12.46674,37.688831 z"
+         style="isolation:isolate;fill:#ffd735;stroke-width:0.264583"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         id="path931"
+         d="m -327.76882,-108.42719 c 0,-10.9072 8.85567,-19.76287 19.76287,-19.76287 10.90719,0 19.76287,8.85567 19.76287,19.76287 0,10.907192 -8.85568,19.762866 -19.76287,19.762866 -10.9072,0 -19.76287,-8.855674 -19.76287,-19.762866 z"
+         style="isolation:isolate;fill:#35ffd0;stroke-width:0.558541"
+         inkscape:connector-curvature="0" />
+    </g>
+    <rect
+       inkscape:export-ydpi="8.3999996"
+       inkscape:export-xdpi="8.3999996"
+       ry="0.49197152"
+       y="160.60178"
+       x="-190.52437"
+       height="108.84401"
+       width="108.84401"
+       id="rect973"
+       style="color:#000000;overflow:visible;opacity:1;fill:#ad7fa8;fill-opacity:0.000216914;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/phonk/phonk_app/src/main/res/drawable/icon_phonk_service.png" />
+    <path
+       id="path991"
+       style="fill:#695d5d;fill-opacity:1;stroke:none;stroke-width:11.2382;stroke-linecap:round;stroke-opacity:1"
+       d="m -514.85547,610.86133 a 201.82696,201.82696 0 0 0 -201.375,201.82617 201.82696,201.82696 0 0 0 201.82813,201.8281 201.82696,201.82696 0 0 0 201.82617,-201.8281 201.82696,201.82696 0 0 0 -201.82617,-201.82617 201.82696,201.82696 0 0 0 -0.45313,0 z m -88.62695,73.7832 c 21.38211,0 38.74219,17.36008 38.74219,38.74219 0,21.38211 -17.36008,38.74219 -38.74219,38.74219 -21.38215,0 -38.74414,-17.36008 -38.74414,-38.74219 0,-21.38211 17.36199,-38.74219 38.74414,-38.74219 z m 201.02148,22.99414 35.6543,38.55274 -93.47656,85.1582 -95.67578,15.37305 -64.75977,63.65625 -37.25391,-36.5586 77.25586,-75.38672 98.01172,-15.4375 z m -51.40234,159.1543 53.28516,94.94922 -105.0879,-8.50391 z"
+       transform="scale(0.26458333)"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/phonk/phonk_app/src/main/res/drawable/icon_phonk_service.png"
+       inkscape:export-xdpi="17.120001"
+       inkscape:export-ydpi="17.120001" />
+    <circle
+       r="51.45245"
+       cy="178.72491"
+       cx="-294.62323"
+       id="circle993"
+       style="fill:#695d5d;fill-opacity:1;stroke:none;stroke-width:2.86499;stroke-linecap:round;stroke-opacity:1" />
+    <path
+       style="fill:none;fill-rule:evenodd;stroke:#ff356b;stroke-width:4.86898;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 257.25232,138.24157 14.28122,-5.35229 14.39341,3.8866 17.21895,-5.9133"
+       id="path997"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc" />
+    <circle
+       style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.6481;stroke-linecap:round;stroke-opacity:1"
+       id="circle2355"
+       cx="-598.82117"
+       cy="282.61197"
+       r="11.639257" />
+    <circle
+       r="11.639257"
+       cy="282.61197"
+       cx="-567.07104"
+       id="circle2359"
+       style="fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:0.6481;stroke-linecap:round;stroke-opacity:1" />
+    <circle
+       style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:0.6481;stroke-linecap:round;stroke-opacity:1"
+       id="circle2361"
+       cx="-535.32092"
+       cy="282.61197"
+       r="11.639257" />
+    <rect
+       inkscape:export-ydpi="59.740002"
+       inkscape:export-xdpi="59.740002"
+       ry="0.49197152"
+       y="230.10307"
+       x="-460.69427"
+       height="108.84401"
+       width="108.84401"
+       id="rect2365"
+       style="color:#000000;overflow:visible;opacity:1;fill:#272822;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:21;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:3;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       transform="translate(-116.40167,365.04116)"
+       id="g2373">
+      <path
+         style="fill:none;fill-rule:evenodd;stroke:#ffc700;stroke-width:26.9875;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         d="M -58.243281,166.84409 19.266778,68.000331 82.574952,117.54315 156.60311,15.589855"
+         id="path2367"
+         inkscape:connector-curvature="0"
+         clip-path="url(#clipPath896)"
+         transform="translate(-350.53904,-172.22537)" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         style="isolation:isolate;fill:#393934;fill-opacity:1;stroke-width:0.264583"
+         d="m -273.48987,-43.792264 23.12857,-26.015401 12.46674,37.688831 z"
+         id="path2369" />
+      <path
+         inkscape:connector-curvature="0"
+         style="isolation:isolate;fill:#393934;fill-opacity:1;stroke-width:0.558541"
+         d="m -327.76882,-108.42719 c 0,-10.9072 8.85567,-19.76287 19.76287,-19.76287 10.90719,0 19.76287,8.85567 19.76287,19.76287 0,10.907192 -8.85568,19.762866 -19.76287,19.762866 -10.9072,0 -19.76287,-8.855674 -19.76287,-19.762866 z"
+         id="path2371" />
+    </g>
+    <g
+       id="g998">
+      <circle
+         cy="36.153404"
+         cx="-700.72791"
+         id="circle2337"
+         style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="51.45245" />
+      <circle
+         r="35.636837"
+         style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2405"
+         cx="-700.72791"
+         cy="36.153404" />
+      <g
+         id="g2425"
+         transform="translate(-258.91488,-124.13751)">
+        <g
+           transform="translate(-2.0136042,2.4544716)"
+           id="g2412">
+          <text
+             xml:space="preserve"
+             style="font-weight:800;font-size:25.4px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583"
+             x="-479.01562"
+             y="167.52412"
+             id="text2341"><tspan
+               sodipodi:role="line"
+               id="tspan2339"
+               x="-479.01562"
+               y="167.52412"
+               style="font-size:25.4px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583">PHONK</tspan></text>
+        </g>
+        <g
+           id="g2417"
+           style="fill:#272822;fill-opacity:1">
+          <rect
+             transform="translate(-2.0136042,2.4544716)"
+             y="144.94016"
+             x="-447.47076"
+             height="25.792583"
+             width="12.864728"
+             id="rect2351"
+             style="fill:#272822;fill-opacity:1;stroke:#ffc700;stroke-width:0.47625;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             ry="0.65777439" />
+          <circle
+             r="3.3337822"
+             style="fill:#272822;fill-opacity:1;stroke:#ffc700;stroke-width:0.47625;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle2391"
+             cx="-443.052"
+             cy="160.29092" />
+        </g>
+      </g>
+    </g>
+    <circle
+       cy="36.153404"
+       cx="-573.72742"
+       id="circle2865"
+       style="fill:#272822;fill-opacity:1;stroke:#ffc700;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="51.45245" />
+    <circle
+       r="35.636837"
+       style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle2867"
+       cx="-573.72742"
+       cy="36.153404" />
+    <g
+       transform="matrix(1.2180947,0,0,1.2180947,-35.287542,-159.0961)"
+       style="fill:#272822;fill-opacity:1"
+       id="g2879">
+      <rect
+         ry="0.97131121"
+         style="fill:#ffc700;fill-opacity:1;stroke:#ffc700;stroke-width:0.703261;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="rect2875"
+         width="20.724154"
+         height="22.886724"
+         x="-453.20087"
+         y="148.30875" />
+      <circle
+         cy="160.29092"
+         cx="-443.052"
+         id="circle2877"
+         style="fill:#272822;fill-opacity:1;stroke:#ffc700;stroke-width:0.703261;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="4.9228735" />
+    </g>
+    <g
+       inkscape:export-ydpi="123"
+       inkscape:export-xdpi="123"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/icon_background2.png"
+       transform="translate(-111.12501)"
+       id="g3077">
+      <circle
+         r="51.45245"
+         style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2901"
+         cx="-700.72791"
+         cy="157.86174" />
+      <circle
+         cy="157.86174"
+         cx="-700.72791"
+         id="circle2903"
+         style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="35.636837" />
+    </g>
+    <g
+       inkscape:export-ydpi="123"
+       inkscape:export-xdpi="123"
+       inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/icon_foreground2.png"
+       id="g2917"
+       transform="translate(-258.91488,-2.4291576)">
+      <g
+         inkscape:export-ydpi="123"
+         inkscape:export-xdpi="123"
+         inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/icon_foreground2.png"
+         transform="translate(-2.0136042,2.4544716)"
+         id="g2909">
+        <g
+           style="font-weight:800;font-size:25.4px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583"
+           id="text2907"
+           aria-label="PHONK">
+          <path
+             id="path3079"
+             style="font-size:25.4px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583"
+             d="m -473.68262,160.90127 v 6.62285 h -3.48506 v -18.05781 h 6.17637 q 1.47588,0 2.66651,0.43408 1.19062,0.42168 2.02158,1.19063 0.84336,0.75654 1.28984,1.82314 0.45889,1.0666 0.45889,2.36885 0,1.21543 -0.45889,2.24483 -0.44648,1.02939 -1.28984,1.78593 -0.83096,0.74414 -2.02158,1.16582 -1.19063,0.42168 -2.66651,0.42168 z m 0,-2.82773 h 2.69131 q 0.74414,0 1.28985,-0.22324 0.5457,-0.22325 0.90537,-0.60772 0.37207,-0.38447 0.5457,-0.88057 0.18603,-0.50849 0.18603,-1.05419 0,-0.63252 -0.18603,-1.17823 -0.17363,-0.5457 -0.5457,-0.95498 -0.35967,-0.40927 -0.90537,-0.64492 -0.54571,-0.23564 -1.28985,-0.23564 h -2.69131 z" />
+          <path
+             id="path3081"
+             style="font-size:25.4px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583"
+             d="m -450.22979,167.52412 h -3.44785 v -7.82587 h -5.10976 v 7.82587 h -3.46026 v -18.05781 h 3.46026 v 7.4042 h 5.10976 v -7.4042 h 3.44785 z" />
+          <path
+             id="path3085"
+             style="font-size:25.4px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583"
+             d="m -419.75723,167.52412 h -3.47265 l -5.02295,-11.6458 v 11.6458 h -3.50987 v -18.05781 h 3.50987 l 4.98574,11.59619 0.0124,-11.59619 h 3.49746 z" />
+          <path
+             id="path3087"
+             style="font-size:25.4px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583"
+             d="m -411.03838,160.10752 -1.90996,2.096 v 5.3206 h -3.49746 v -18.05781 h 3.49746 v 8.27237 l 1.63711,-2.20762 4.39043,-6.06475 h 4.2664 l -6.07714,7.98711 6.30039,10.0707 h -4.14239 z" />
+        </g>
+      </g>
+      <g
+         id="g2915"
+         style="fill:none;fill-opacity:1">
+        <rect
+           inkscape:export-ydpi="123"
+           inkscape:export-xdpi="123"
+           inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/icon_foreground2.png"
+           transform="translate(-2.0136042,2.4544716)"
+           y="144.94016"
+           x="-447.47076"
+           height="25.792583"
+           width="12.864728"
+           id="rect2911"
+           style="fill:none;fill-opacity:1;stroke:#ffc700;stroke-width:1.05833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           ry="0.65777439" />
+        <circle
+           inkscape:export-ydpi="123"
+           inkscape:export-xdpi="123"
+           inkscape:export-filename="/home/biquillo/Development/phonk-project/images and more/icon_foreground2.png"
+           r="3.3337822"
+           style="fill:none;fill-opacity:1;stroke:#ffc700;stroke-width:1.05833;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle2913"
+           cx="-443.052"
+           cy="160.29092" />
+      </g>
+    </g>
+    <g
+       id="g1009">
+      <circle
+         cy="279.57013"
+         cx="-700.72791"
+         id="circle2919"
+         style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         r="51.45245" />
+      <circle
+         r="35.636837"
+         style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="circle2921"
+         cx="-700.72791"
+         cy="279.57013" />
+      <g
+         id="g2935"
+         transform="matrix(1.4094084,0,0,1.4094084,-78.032886,53.654729)"
+         clip-path="url(#clipPath3067)">
+        <g
+           transform="translate(-2.0136042,2.4544716)"
+           id="g2927">
+          <text
+             xml:space="preserve"
+             style="font-weight:800;font-size:25.4px;line-height:1.25;font-family:'Roboto Mono';-inkscape-font-specification:'Roboto Mono Ultra-Bold';letter-spacing:0px;word-spacing:0px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583"
+             x="-479.01562"
+             y="167.52412"
+             id="text2925"><tspan
+               sodipodi:role="line"
+               id="tspan2923"
+               x="-479.01562"
+               y="167.52412"
+               style="font-size:25.4px;fill:#ffc700;fill-opacity:1;stroke-width:0.264583">PHONK</tspan></text>
+        </g>
+        <g
+           id="g2933"
+           style="fill:#272822;fill-opacity:1">
+          <rect
+             transform="translate(-2.0136042,2.4544716)"
+             y="144.94016"
+             x="-447.47076"
+             height="25.792583"
+             width="12.864728"
+             id="rect2929"
+             style="fill:#272822;fill-opacity:1;stroke:#ffc700;stroke-width:0.47625;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             ry="0.65777439" />
+          <circle
+             r="3.3337822"
+             style="fill:#272822;fill-opacity:1;stroke:#ffc700;stroke-width:0.47625;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle2931"
+             cx="-443.052"
+             cy="160.29092" />
+        </g>
+      </g>
+    </g>
+    <circle
+       r="51.45245"
+       style="fill:#272822;fill-opacity:1;stroke:#ffc700;stroke-width:2.11667;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="circle2953"
+       cx="-450.09918"
+       cy="35.614174" />
+    <circle
+       cy="35.614174"
+       cx="-450.09918"
+       id="circle2955"
+       style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:0.529167;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       r="35.636837" />
+    <g
+       transform="translate(8.2421398,1.9640601)"
+       id="g2863">
+      <g
+         style="stroke:#ffc700;stroke-opacity:1"
+         id="g2775"
+         transform="translate(-16.528328,-126.64079)">
+        <g
+           style="stroke:#ffc700;stroke-opacity:1"
+           transform="translate(-2.0136042,2.4544716)"
+           id="g2767" />
+        <g
+           style="stroke:#ffc700;stroke-opacity:1"
+           transform="matrix(1.8969891,0,0,1.8981514,398.65182,-143.96552)"
+           id="g2773">
+          <rect
+             ry="0.87608987"
+             y="147.39462"
+             x="-449.77423"
+             height="25.792583"
+             width="13.444463"
+             id="rect2769"
+             style="fill:#fbfbfb;fill-opacity:1;stroke:none;stroke-width:0.403344;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        </g>
+      </g>
+      <g
+         id="g2490"
+         transform="translate(-16.528318,-126.64079)">
+        <g
+           transform="translate(-2.0136042,2.4544716)"
+           id="g2482" />
+        <g
+           transform="matrix(1.8969891,0,0,1.8981514,398.65182,-143.96552)"
+           id="g2488">
+          <g
+             id="g2849"
+             transform="translate(0.10595748,3.7470856)">
+            <rect
+               ry="0.15161288"
+               y="149.74998"
+               x="-447.25644"
+               height="1.3213919"
+               width="8.1969538"
+               id="rect2509"
+               style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:1.40399;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:1.40399;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect2833"
+               width="8.1969538"
+               height="1.3213919"
+               x="-447.25644"
+               y="153.83875"
+               ry="0.15161288" />
+            <rect
+               ry="0.15161288"
+               y="157.92752"
+               x="-447.25644"
+               height="1.3213919"
+               width="8.1969538"
+               id="rect2835"
+               style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:1.40399;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+            <rect
+               style="fill:#393934;fill-opacity:1;stroke:none;stroke-width:1.40399;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect2837"
+               width="8.1969538"
+               height="1.3213919"
+               x="-447.25644"
+               y="162.01628"
+               ry="0.15161288" />
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+       id="g3021"
+       style="fill:#272822;fill-opacity:1;stroke-width:0.999922;stroke-miterlimit:4;stroke-dasharray:none"
+       transform="matrix(1.2180947,0,0,1.2180947,-35.287542,-32.096059)">
+      <g
+         id="g3057">
+        <circle
+           inkscape:export-ydpi="7.7393374"
+           inkscape:export-xdpi="7.7393374"
+           inkscape:export-filename="/home/biquillo/Development/phonk-project/phonk/phonk_app/src/main/res/drawable/icon_phonk_service.png"
+           r="42.240108"
+           style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:1.73796;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           id="circle3049"
+           cx="-442.03448"
+           cy="160.29088" />
+        <circle
+           inkscape:export-ydpi="7.7393374"
+           inkscape:export-xdpi="7.7393374"
+           inkscape:export-filename="/home/biquillo/Development/phonk-project/phonk/phonk_app/src/main/res/drawable/icon_phonk_service.png"
+           cy="160.29088"
+           cx="-442.03448"
+           id="circle3051"
+           style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.434285;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           r="29.256212" />
+        <g
+           transform="matrix(1.354541,0,0,1.354541,157.08011,-56.829705)"
+           id="g3092">
+          <rect
+             inkscape:export-ydpi="7.7393374"
+             inkscape:export-xdpi="7.7393374"
+             inkscape:export-filename="/home/biquillo/Development/phonk-project/phonk/phonk_app/src/main/res/drawable/icon_phonk_service.png"
+             ry="0.97131121"
+             style="fill:none;fill-opacity:1;stroke:#fbfbfb;stroke-width:1.44322;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="rect3053"
+             width="18.99687"
+             height="38.086956"
+             x="-452.55298"
+             y="141.24744" />
+          <circle
+             inkscape:export-ydpi="7.7393374"
+             inkscape:export-xdpi="7.7393374"
+             inkscape:export-filename="/home/biquillo/Development/phonk-project/phonk/phonk_app/src/main/res/drawable/icon_phonk_service.png"
+             cy="160.29092"
+             cx="-443.05298"
+             id="circle3055"
+             style="fill:#272822;fill-opacity:1;stroke:#fbfbfb;stroke-width:1.44322;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             r="4.9228735" />
+        </g>
+      </g>
+    </g>
+    <g
+       transform="matrix(1.2180947,0,0,1.2180947,91.712464,-32.096059)"
+       style="fill:#272822;fill-opacity:1;stroke-width:0.999922;stroke-miterlimit:4;stroke-dasharray:none"
+       id="g1073">
+      <g
+         id="g1071">
+        <g
+           id="g1080">
+          <circle
+             style="fill:#272822;fill-opacity:0;stroke:none;stroke-width:1.7802;stroke-linecap:round;stroke-opacity:1"
+             id="path3291"
+             cx="-945.92859"
+             cy="-166.95403"
+             r="85.378632" />
+          <circle
+             r="41.192696"
+             inkscape:export-ydpi="7.7393374"
+             inkscape:export-xdpi="7.7393374"
+             inkscape:export-filename="/home/biquillo/Development/phonk-project/phonk/phonk_app/src/main/res/drawable/icon_phonk_service.png"
+             style="fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:1.69487;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+             id="circle1061"
+             cx="-442.03448"
+             cy="160.29088" />
+          <g
+             transform="matrix(1.6677159,0,0,1.354541,295.83365,-56.829705)"
+             id="g1069"
+             style="fill:#272822;fill-opacity:1">
+            <rect
+               inkscape:export-ydpi="7.7393374"
+               inkscape:export-xdpi="7.7393374"
+               inkscape:export-filename="/home/biquillo/Development/phonk-project/phonk/phonk_app/src/main/res/drawable/icon_phonk_service.png"
+               ry="0.97131121"
+               style="fill:#272822;fill-opacity:1;stroke:#ffc700;stroke-width:1.44322;stroke-linecap:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+               id="rect1065"
+               width="18.99687"
+               height="38.086956"
+               x="-451.9408"
+               y="141.24741" />
+          </g>
+          <circle
+             style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+             id="path3271"
+             cx="-1158.3405"
+             cy="-203.51828"
+             r="10.64738"
+             inkscape:tile-cx="-610.05331"
+             inkscape:tile-cy="-400.30079"
+             inkscape:tile-w="25.939036"
+             inkscape:tile-h="25.939036"
+             inkscape:tile-x0="-623.02283"
+             inkscape:tile-y0="-413.27031" />
+          <g
+             id="g3320"
+             transform="translate(-3.4170649,1.0342255)">
+            <circle
+               transform="rotate(70.040332)"
+               style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3273"
+               cx="-534.20172"
+               cy="854.0462"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+            <circle
+               transform="rotate(-48.28857)"
+               style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3275"
+               cx="-530.06183"
+               cy="-847.15881"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+            <circle
+               transform="rotate(18.264053)"
+               style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3277"
+               cx="-974.77356"
+               cy="189.64572"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+            <circle
+               transform="rotate(-53.022617)"
+               style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3279"
+               cx="-398.69531"
+               cy="-879.60938"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+            <circle
+               transform="rotate(-47.318293)"
+               style="fill:#272822;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3281"
+               cx="-515.45892"
+               cy="-806.75256"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+            <circle
+               transform="rotate(79.29549)"
+               style="fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3283"
+               cx="-298.28308"
+               cy="902.81726"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+            <circle
+               transform="rotate(-5.3341234)"
+               style="fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3285"
+               cx="-876.44891"
+               cy="-293.32587"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+            <circle
+               transform="rotate(-3.0512329)"
+               style="fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3287"
+               cx="-889.70447"
+               cy="-215.65198"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+            <circle
+               transform="rotate(-17.341462)"
+               style="fill:#ffc700;fill-opacity:1;stroke:none;stroke-width:0.984648;stroke-linecap:round;stroke-opacity:1"
+               id="use3289"
+               cx="-821.63934"
+               cy="-387.93454"
+               r="10.64738"
+               inkscape:tile-x0="-623.02283"
+               inkscape:tile-y0="-413.27031" />
+          </g>
+          <circle
+             style="fill:#ffc700;fill-opacity:1;stroke:#ffc700;stroke-width:1.9549;stroke-linecap:round;stroke-opacity:1"
+             id="path3322"
+             cx="-1126.6365"
+             cy="-326.32788"
+             r="26.116816" />
+          <rect
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.826176;stroke-linecap:round;stroke-opacity:1"
+             id="rect3325"
+             width="21.021345"
+             height="86.105507"
+             x="-999.25787"
+             y="-209.57904"
+             ry="0" />
+          <rect
+             ry="0"
+             y="-211.34566"
+             x="-956.4101"
+             height="44.457985"
+             width="21.021345"
+             id="rect3327"
+             style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.593652;stroke-linecap:round;stroke-opacity:1" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

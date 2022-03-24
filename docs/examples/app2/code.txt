@@ -1,0 +1,19 @@
+// Create a random E-moji village
+var title = ui.addText('E-moji village', 0.1, 0.2, 0.8, 0.1)
+title.props.textAlign = 'center'
+title.props.textSize = 20
+
+var textArea = ui.addText(0.1, 0.1, 0.8, 0.8)
+
+var blocks = ['🌱',  '🌴',  '🌲', '🌳', '🏠']
+
+var counter = 0
+
+// append a random block every 10ms to the text area
+var l = util.loop(10, function () {
+  var selection = Math.floor(Math.random() * blocks.length)
+  textArea.append(blocks[selection])
+
+  if (counter++ > 208) l.stop()
+}).start()
+

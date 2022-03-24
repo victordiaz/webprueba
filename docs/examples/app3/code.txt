@@ -1,0 +1,23 @@
+// MQTT Light
+var connectionData = {
+  clientId: 'phonk',
+  broker: 'tcp://192.168.10.100:1883'
+}
+
+var c = network.createMQTTClient()
+c.onNewData(function (e) {
+  if (e.data === 'on') img.load('light_on.png')
+  else img.load('light_off.png')
+})
+c.connect(connectionData)
+c.subscribe('house/light/status')
+
+var img = ui.addImage('light_off.png', 0.1, 0.15, 0.8, 0.4)
+
+// send mqtt message to turn on/off light
+ui.addToggle(['off', 'on'], 0.2, 0.7, 0.6, 0.1).onChange(function (e) {
+  if (e.checked) lightState = 'on'
+  else lightState = 'off'
+
+  c.publish('house/light/set', lightState, 2, false)
+})
